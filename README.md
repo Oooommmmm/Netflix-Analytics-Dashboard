@@ -20,7 +20,7 @@ An interactive data analytics dashboard built with Python and Streamlit that exp
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Oooommmmm/netflix-analytics-dashboard.git
+git clone https://github.com/Oooommmmm/Netflix-Analytics-Dashboard.git
 ```
 
 **2. Install dependencies**
