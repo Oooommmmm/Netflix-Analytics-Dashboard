@@ -25,7 +25,7 @@ filtered_df = df[
     (df["release_year"].between(year_range[0], year_range[1]))
 ]
 
-st.title("🎬 Netflix Movies & TV Shows Analytics")
+st.title("Netflix Movies & TV Shows Analytics")
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
